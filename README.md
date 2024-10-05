@@ -1,6 +1,7 @@
 # tugas_1_pemrograman_mobile
 
-A new Flutter project.
+Starting Project
+20230801327 Herlan Jaelani KJ301 CIE511 Pemrograman Mobile
 
 ## Getting Started
 
